@@ -2,7 +2,7 @@
 //----------
 to run the app:
 
-cd bookingApp/booking-front
+cd booking-app/booking-app-ui
 npm run dev
 
 //---------------------
